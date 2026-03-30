@@ -1,4 +1,3 @@
-# ml-regression-classification-workflow
 # ML Regression & Classification Workflow
 
 This repository demonstrates an end-to-end workflow for supervised machine learning tasks, including **regression** and **classification**.
