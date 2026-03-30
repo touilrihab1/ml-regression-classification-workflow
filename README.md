@@ -31,7 +31,7 @@ The project showcases:
      - Visualizations: Parity plots, error histograms, bar plots
 
 2. **Classification Notebook**:  
-   - Dataset: Public classification dataset (e.g., Titanic Survival, Iris, or similar)  
+   - Dataset: Public classification dataset 
    - Models used:
      - Logistic Regression
      - Decision Tree Classifier
